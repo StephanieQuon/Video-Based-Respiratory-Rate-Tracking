@@ -11,6 +11,7 @@ Results: The algorithm succeeded in video stabilization, automatically tracking 
 Conclusion: The preliminary results from this algorithm show we have a feasible method of accurately measuring respiratory rate under real-life video acquisition conditions in low-resource settings. To formally determine the accuracy of the algorithm, it will be tested on additional videos. The algorithm will also be extended to recognize abnormal breathing patterns, such as paradoxical breathing and apnea.
 
 
-# To run this algorithm 
+# To use this code
+Requirements: MATLAB R2020a
 1. Download the .m file and open the script in MATLAB
 
