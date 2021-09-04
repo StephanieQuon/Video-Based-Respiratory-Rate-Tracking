@@ -12,6 +12,9 @@ Conclusion: The preliminary results from this algorithm show we have a feasible 
 
 
 # To use this code
-Requirements: MATLAB R2020a
+Requirements: MATLAB R2020a, video with body clearly in frame (suggested minimum 10 seconds, named input_video.mp4) 
+
 1. Download the .m file and open the script in MATLAB
+2. Drag your video file to the same folder the .m file is located
+3. Press "run", estimates should print in the MATLAB terminal 
 
