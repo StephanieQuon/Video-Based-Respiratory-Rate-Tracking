@@ -1,5 +1,7 @@
 # Smartphone Video-Based Respiratory Rate Tracking for Infants
 
+**ELEC 499 - Electrical Engineering Undergraduate Thesis** 
+
 Background: Each year, about four million infants worldwide die of severe illnesses in their first month. Chances of survival greatly increase if critical conditions are promptly treated. However, recognizing early warning signs can be difficult, especially in low-resource settings lacking monitoring technology. Therefore, we need accessible, reliable, and low-cost devices that can help identify sick infants.
 
 Objective: The objective of this project was to develop a computer algorithm that automatically measures respiratory rate from videos of infants captured using a smartphone. This algorithm was designed to work from videos containing motion artifacts and taken in varied lighting conditions.
