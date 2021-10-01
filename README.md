@@ -17,7 +17,7 @@ Requirements: MATLAB R2020a, video with body clearly in frame (suggested minimum
 **Step 1: Stabilize the video** 
 1. Download stabilze.m, cvexEstStabilizationTform.m, and cvexTformToSRT from this repo
 2. Put all 3 files into the same directory in MATLAB, along with the video (named input_video.mp4) 
-3. Open stabilize.m and run the script
+3. Open stabilize.m and run the script, wait until it finishes 
 
 **Step 2: Semantic Segmentation** 
 1. Download the .m file and open the script in MATLAB
