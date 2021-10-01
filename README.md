@@ -15,12 +15,11 @@ Conclusion: The preliminary results from this algorithm show we have a feasible 
 Requirements: MATLAB R2020a, video with body clearly in frame (suggested minimum 10 seconds, named input_video.mp4) 
 
 **Step 1: Stabilize the video** 
-1. Download stabilze.m, cvexEstStabilizationTform.m, and cvexTformToSRT from this repo
-2. Put all 3 files into the same directory in MATLAB, along with the video (named input_video.mp4) 
+1. Download stabilze.m, and put it into the same directory in MATLAB along with the video 
 3. Open stabilize.m and run the script, wait until it finishes 
 
 **Step 2: Semantic Segmentation** 
-1. Download the .m file and open the script in MATLAB
+1. Download final_tracking_alg.m and open the script in MATLAB
 2. Drag your video file to the same folder the .m file is located
 3. Press "run", estimates should print in the MATLAB terminal 
 
