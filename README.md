@@ -1,4 +1,4 @@
-# Smartphone Video-Based Respiratory Rate Tracking for Infants
+# Motion-Based Respiratory Rate Tracking for Infants in Low Resource Settings
 
 **ELEC 499 - Electrical Engineering Undergraduate Thesis** 
 
