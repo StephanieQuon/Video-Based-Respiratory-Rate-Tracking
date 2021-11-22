@@ -13,15 +13,24 @@ Requirements: MATLAB R2020a or later version, video with body clearly in frame (
 3. Open stabilize.m and run the script, wait until it finishes 
 
 **Step 2: Run your desired algorim** 
-1. Download final_tracking_alg.m and open the script in MATLAB
+
+***Algorithm: Select Chest + Optical Flow***
+1. Download select_optical_flow.m and open the script in MATLAB
 2. Drag your video file to the same folder the .m file is located
 3. Press "run", estimates should print in the MATLAB terminal 
 
-***Algorithm: Select Chest + Optical Flow***
+***Algorithm: Automatic Chest Detection + Optical Flow***
+1. Download automatic_optical_flow.m and open the script in MATLAB
+2. Drag your video file to the same folder the .m file is located
+3. Press "run", estimates should print in the MATLAB terminal 
 
-**Algorithm: Automatic Chest Detection + Optical Flow** 
+***Algorithm: Select Stickers + Sticker Tracking***
+1. Download select_sticker_tracking.m and open the script in MATLAB
+2. Drag your video file to the same folder the .m file is located
+3. Press "run", estimates should print in the MATLAB terminal 
 
-**Algorithm: Select Stickers + Sticker Tracking** 
-
-**Algorithm: Automatic Sticker Detection + Sticker Tracking** 
+***Algorithm: Automatic Sticker Detection + Sticker Tracking*** 
+1. Download automatic_sticker_tracking.m and open the script in MATLAB
+2. Drag your video file to the same folder the .m file is located
+3. Press "run", estimates should print in the MATLAB terminal 
 
