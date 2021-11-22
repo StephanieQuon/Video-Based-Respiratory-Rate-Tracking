@@ -6,7 +6,7 @@
 
 
 # To use this code
-Requirements: MATLAB R2020a or later version, video with body clearly in frame (suggested minimum 10 seconds, named input_video.mp4) 
+Requirements: MATLAB R2020a or later version, video with body clearly in frame named input_video.mp4 (recommended minimum 10 seconds)
 
 **Step 1: Stabilize the video** 
 1. Download stabilze.m, and put it into the same directory in MATLAB along with the video 
@@ -25,11 +25,13 @@ Requirements: MATLAB R2020a or later version, video with body clearly in frame (
 3. Press "run", estimates should print in the MATLAB terminal 
 
 ***Algorithm: Select Stickers + Sticker Tracking***
+****note the use of this algorithm requires 4 stickers be placed on the person's chest and 1 placed on their forehead****
 1. Download select_sticker_tracking.m and open the script in MATLAB
 2. Drag your video file to the same folder the .m file is located
 3. Press "run", estimates should print in the MATLAB terminal 
 
 ***Algorithm: Automatic Sticker Detection + Sticker Tracking*** 
+****note the use of this algorithm requires 4 YELLOW stickers be placed on the person's chest and 1 placed on their forehead****
 1. Download automatic_sticker_tracking.m and open the script in MATLAB
 2. Drag your video file to the same folder the .m file is located
 3. Press "run", estimates should print in the MATLAB terminal 
