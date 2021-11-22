@@ -19,11 +19,6 @@ Requirements: MATLAB R2020a or later version, video with body clearly in frame n
 2. Drag your video file to the same folder the .m file is located.
 3. Press "run", estimates should print in the MATLAB terminal.
 
-***Algorithm: Automatic Chest Detection + Optical Flow***
-1. Download automatic_optical_flow.m and open the script in MATLAB. Download trained_model_chest.xml to the same directory of select_sticker_tracking.m.
-2. Drag your video file to the same folder the .m file is located.
-3. Press "run", estimates should print in the MATLAB terminal.
-
 ***Algorithm: Select Stickers + Sticker Tracking***
 * The use of this algorithm requires 4 stickers be placed on the person's chest and 1 placed on their forehead
 1. Download select_sticker_tracking.m and open the script in MATLAB.
