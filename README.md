@@ -36,4 +36,4 @@ Requirements: MATLAB R2020a or later version, video with body clearly in frame n
 1. Download automatic_sticker_tracking.m and open the script in MATLAB.
 2. Drag your video file to the same folder the .m file is located.
 3. Press "run", estimates should print in the MATLAB terminal.
-4. 4. When the MATLAB figure window opens, it will prompt the selection of a region of interest. Left click to draw a box starting at the corner, and drag and release to form a box around the chest region of the person in the video. 
+4. When the MATLAB figure window opens, it will prompt the selection of a region of interest. Left click to draw a box starting at the corner, and drag and release to form a box around the chest region of the person in the video. 
