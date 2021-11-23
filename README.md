@@ -14,11 +14,6 @@ Requirements: MATLAB R2020a or later version, video with body clearly in frame n
 
 **Step 2: Run your desired algorim** 
 
-***Algorithm: Select Chest + Optical Flow***
-1. Download select_optical_flow.m and open the script in MATLAB.
-2. Drag your video file to the same folder the .m file is located.
-3. Press "run", estimates should print in the MATLAB terminal.
-
 ***Algorithm: Select Stickers + Sticker Tracking***
 * The use of this algorithm requires 4 stickers be placed on the person's chest and 1 placed on their forehead
 1. Download select_sticker_tracking.m and open the script in MATLAB.
