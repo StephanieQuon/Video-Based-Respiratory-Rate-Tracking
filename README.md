@@ -1,4 +1,4 @@
-## ELEC 499 Electrical Engineering Undergraduate Thesis: Motion-Based Respiratory Rate Tracking for Infants in Low Resource Settings
+## ELEC 499A Electrical Engineering Undergraduate Thesis: Motion-Based Respiratory Rate Tracking for Infants in Low Resource Settings
 
 ### To use this code
 Requirements: MATLAB R2020a or later version, video with body clearly in frame named input_video.mp4 (recommended minimum 10 seconds)
