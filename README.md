@@ -7,7 +7,7 @@ Requirements: MATLAB R2020a or later version, video with body clearly in frame n
 1. Download stabilze.m, and put it into the same directory in MATLAB along with the video 
 3. Open stabilize.m and run the script, wait until it finishes 
 
-**Step 2: Run your desired tracking algorithm** 
+**Step 2: Run the desired tracking algorithm** 
 
 ***Algorithm: Select Stickers + Sticker Tracking***
 * The use of this algorithm requires 4 stickers be placed on the person's chest and 1 placed on their forehead
