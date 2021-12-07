@@ -4,7 +4,7 @@
 Requirements: MATLAB R2020a or later version, video with body clearly in frame named input_video.mp4 (recommended minimum 10 seconds)
 
 **Step 1: Stabilize the video** 
-1. Download stabilze.m, and put it into the same directory in MATLAB along with the video 
+1. Download stabilize.m, and put it into the same directory in MATLAB along with the video 
 3. Open stabilize.m and run the script, wait until it finishes 
 
 **Step 2: Run the desired tracking algorithm** 
