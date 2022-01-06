@@ -2,6 +2,8 @@
 
 Innovative digital health technologies present an opportunity to create affordable, sustainable, and scalable monitoring technology to expand access to care in low-income and middle-income countries. This study aims to develop a computer algorithm that automatically measures respiratory rate from videos of infants captured using a smartphone. Given the gaps identified in previous research, this project focuses specifically on using smartphone video data taken in environments that contain lighting variations, with handheld videos containing movement artifacts. For this study, 57 videos were captured from 39 infants <3 months of age at Kamuzu Central Hospital in Malawi, East Africa. To facilitate respiratory rate tracking, 5 small paper stickers were applied on the infant’s skin. Using MATLAB, algorithms were developed to identify stickers on the infants’, track sticker movement from respiratory rate, and estimate breath count. This study indicated that non-contact respiratory rate monitoring for infants could be an effective method of accurately estimating respiratory rate using smartphone videos with lighting variations and movement artifacts. However, given the high accuracy and reliability required for effective monitoring tools, the current methods developed require further development to be successful. Overall, the results of this study aligned with previous research, as lighting variation and movement artifacts presented as major technical challenges. 
 
+Full paper available [here](https://drive.google.com/file/d/1evjSCbb4h4yJbcWMRPWwbopwXDUDVz9E/view?usp=sharing)
+
 ### To use this code
 Requirements: MATLAB R2020a or later version, video with body clearly in frame named input_video.mp4 (recommended minimum 10 seconds)
 
